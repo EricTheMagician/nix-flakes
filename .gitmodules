@@ -1,0 +1,3 @@
+[submodule "viber"]
+	path = viber
+	url = git@github.com:EricTheMagician/flake-viber.git
