@@ -1,6 +1,6 @@
 [submodule "viber"]
 	path = viber
-	url = https://github.com/EricTheMagician/flake-viber
+	url = git@github.com:EricTheMagician/flake-viber.git
 [submodule "home-manager"]
 	path = home-manager
 	url = git@github.com:EricTheMagician/home-manager.git
